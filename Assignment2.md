@@ -3,3 +3,6 @@
 
 ![](pan_pop20.png)
 
+# This is my second challenge problem and the plot produced.
+# Explanation of work
+
