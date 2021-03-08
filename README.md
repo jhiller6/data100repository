@@ -13,3 +13,5 @@ https://github.com/jhiller6/data100repository/blob/main/Assignment2.md
 # Informal Responses
 
 https://github.com/jhiller6/data100repository/blob/main/DATA100%20Assignment%201%20Response.pdf
+
+https://github.com/jhiller6/data100repository/blob/main/DATA100%20Assignment%202%20Response.pdf
