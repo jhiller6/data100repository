@@ -6,7 +6,9 @@ intro, picture, https
 
 # My Projects
 
-https://github.com/jhiller6/data100repository/blob/main/Assignment1
+https://github.com/jhiller6/data100repository/blob/main/Assignment1.md
+
+https://github.com/jhiller6/data100repository/blob/main/Assignment2.md
 
 # Informal Responses
 
