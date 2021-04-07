@@ -6,4 +6,6 @@
 
 # This is my third challenge problem and the plots produced. 
 
-![](togoAssignment3.png)
+![](panama_ntl_summary.png)
+
+![](panama_water_summary.png)
