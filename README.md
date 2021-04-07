@@ -10,6 +10,8 @@ https://jhiller6.github.io/data100repository/Assignment1.html
 
 https://jhiller6.github.io/data100repository/Assignment2.html
 
+https://jhiller6.github.io/data100repository/Assignment3.html
+
 # Informal Responses
 
 https://github.com/jhiller6/data100repository/blob/main/DATA100%20Assignment%201%20Response.pdf
