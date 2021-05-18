@@ -4,7 +4,7 @@
 
 ## Accessibility 2
 
-![]()
+![](healthcare.png)
 
 ## Accessibility 3
 
