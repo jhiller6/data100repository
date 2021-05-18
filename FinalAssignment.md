@@ -8,4 +8,4 @@
 
 ## Accessibility 3
 
-![](3dimage.png)
+![]()
